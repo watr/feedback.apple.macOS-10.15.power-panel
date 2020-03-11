@@ -14,6 +14,6 @@
 
 - **Expected result**
   - Save panel closes and completion handler called
-- **Actual result: Save panel closes**
+- **Actual result**
   - Save panel does NOT closes and completion handler NOT called
   ![actual-result](./images/03_save-and-assertion-fails.png)
